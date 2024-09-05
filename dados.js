@@ -1,6 +1,6 @@
 let dados = [
     {
-        titulo : "Braincore",
+        titulo : "Braincore: Educação e Tecnologia",
         descricao : "Site feito para os cursos, metodologia, professores e contato da Braincore",
         link : "https://braincore.com.br/"
     },
