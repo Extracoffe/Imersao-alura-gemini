@@ -27,14 +27,3 @@ Esse portfólio online é a sua vitrine virtual para mostrar ao mundo tudo o que
 Quer melhorar ainda mais esse portfólio? Sinta-se à vontade para contribuir com novas ideias e funcionalidades! 
 
 **Comece agora mesmo a mostrar seu trabalho para o mundo!** 
-
-**#portfólio #desenvolvedor #programador #design #criatividade #web**
-
-**Observações:**
-
-* **Personalize:** Adapte este README para o seu estilo e adicione mais detalhes sobre seus projetos.
-* **Imagens:** Inclua imagens dos seus projetos para deixar o README mais atrativo.
-* **Links:** Adicione links para seus perfis em redes sociais e outras plataformas.
-* **Chamadas para ação:** Incentive os visitantes a entrarem em contato com você.
-
-**Com esse README, você terá um portfólio online completo e atraente para mostrar seus projetos e conquistar novas oportunidades!**
